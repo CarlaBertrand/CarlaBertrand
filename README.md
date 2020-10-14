@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/CarlaBertrand/CarlaBertrand/Carla_Bertrand.png)]
+[![Header](https://raw.githubusercontent.com/CarlaBertrand/CarlaBertrand/master/Carla_Bertrand.png)]
 ### Hi there 👋
 
 <!--
