@@ -1,5 +1,4 @@
-[![Header](https://github.com/CarlaBertrand/CarlaBertrand/blob/main/Carla%20Bertrand.png "Header")]
-
+![Header](https://github.com/CarlaBertrand/CarlaBertrand/blob/main/Carla%20Bertrand.png "Header")
 
 <!--
 **CarlaBertrand/CarlaBertrand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
